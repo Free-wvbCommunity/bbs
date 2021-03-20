@@ -1,2 +1,3 @@
-# bbs
-Free wvbCommunity
+# Free wvbCommunity
+---
+请使用issue作为BBS
